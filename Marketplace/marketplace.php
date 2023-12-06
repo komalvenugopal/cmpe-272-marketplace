@@ -81,8 +81,8 @@ if (isset($_GET['market'])) {
                     </style>
                 <div style="display: flex; width: 100%; padding-left: 20%; padding-right: 30%;  justify-content: space-evenly; margin: 0;">
                     <a href="https://cmpe272.komalvenugopal.tech/ZoomCar/index.php" class="btn btn-secondary title">Zoom Car</a>
-                    <a href="https://drone-market-0520205a5517.herokuapp.com/" class="btn btn-secondary title">Drop Hut</a>
-                    <a href="https://cmpe-272-4e8d7c9692e3.herokuapp.com/index-2.html" class="btn btn-secondary title">Doccure</a>
+                    <a href="https://drone-market-0520205a5517.herokuapp.com/login.html" class="btn btn-secondary title">Drop Hut</a>
+                    <a href="https://cmpe-272-4e8d7c9692e3.herokuapp.com/register.html" class="btn btn-secondary title">Doccure</a>
                     <a href="https://jmcmpe272-bf43561f1604.herokuapp.com/service.php" class="btn btn-secondary title">Crypto Guard</a>
                 </div>
             </div>
